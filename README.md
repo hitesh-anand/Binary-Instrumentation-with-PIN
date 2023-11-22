@@ -53,3 +53,7 @@ The following applications were used:
 * 456.hmmer
 * 471.omnetpp
 * 483.xalancbmk
+
+## References
+
+* [INTEL Pin API](https://software.intel.com/sites/landingpage/pintool/docs/98749/Pin/doc/html/group__API__REF.html)
