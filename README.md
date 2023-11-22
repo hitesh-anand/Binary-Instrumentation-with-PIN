@@ -20,3 +20,19 @@ This repository contains my submissions for the assignments in the course CS422:
   13. System calls		(XED_CATEGORY_SYSCALL)
   14. Floating-point		(XED_CATEGORY_X87_ALU)
   15. Others: whatever is left
+* Compute CPI for each benchmark application
+* Calculate the Memory and Instruction Footprint for each application
+* Compute the distribution of instructions with respect to number of operands, memory/register read/write operands, max/avg number of memory bytes touched
+
+## Task 2
+
+* Simulate the following Direction Predictors:
+1. Static forward not-taken and backward taken (FNBT)
+2. Bimodal
+3. SAg
+4. GAg
+5. gshare
+6. Hybrid of SAg and GAg
+7. Hybrid of SAg, GAg, and gshare
+
+* Simulate a Branch Target Buffer for Indirect Control Flow Instructions
