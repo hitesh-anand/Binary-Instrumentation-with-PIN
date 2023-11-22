@@ -43,4 +43,13 @@ This repository contains my submissions for the assignments in the course CS422:
 
 ## Applications used for Instrumentation
 
-8 applications from the [spec2006]{https://www.spec.org/cpu2006/CINT2006/} suite of applications were used for instrumentation.
+8 applications from the [spec2006](https://www.spec.org/cpu2006/CINT2006/) suite of applications were used for instrumentation.
+The following applications were used:
+* 400.perlbench
+* 401.bzip2
+* 403.gcc
+* 429.mcf
+* 450.soplex
+* 456.hmmer
+* 471.omnetpp
+* 483.xalancbmk
