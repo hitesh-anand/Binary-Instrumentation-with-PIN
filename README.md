@@ -36,3 +36,7 @@ This repository contains my submissions for the assignments in the course CS422:
 7. Hybrid of SAg, GAg, and gshare
 
 * Simulate a Branch Target Buffer for Indirect Control Flow Instructions
+
+## Task 3
+
+* Implement an Inclusive 2-level Cache with different replacement policies for the L2 cache
